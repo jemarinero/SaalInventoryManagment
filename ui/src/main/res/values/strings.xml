@@ -1,0 +1,16 @@
+<resources>
+    <string name="home.topbar.title">Objects</string>
+    <string name="home.topbar.search">Search</string>
+    <string name="detail.topbar.new.object">New Object</string>
+    <string name="detail.type.title">Type</string>
+    <string name="detail.type.button.add.new">Add New</string>
+    <string name="detail.placeholder.select.type">Select Type</string>
+    <string name="detail.item.name">Name</string>
+    <string name="detail.item.description">Description</string>
+    <string name="detail.item.relations">Relations</string>
+    <string name="detail.item.update">Item updated successfully</string>
+    <string name="dialog.item.type.new.item">New Item Type</string>
+    <string name="generic.button.save">Save</string>
+    <string name="generic.button.cancel">Cancel</string>
+    <string name="generic.button.delete">Delete</string>
+</resources>
